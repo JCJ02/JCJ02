@@ -15,7 +15,7 @@
 
 ### 🔝 Top Contributed Repo
 <a href="https://github.com/JCJ02/" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 4px; width: 100%;">
-  <img style="height: 144px;" src="https://github-contributor-stats.vercel.app/api?username=JCJ02&limit=5&theme=swift&combine_all_yearly_contributions=true"/>
+  <img style="height: 200px;" src="https://github-contributor-stats.vercel.app/api?username=JCJ02&limit=5&theme=swift&combine_all_yearly_contributions=true"/>
 </a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
