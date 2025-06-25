@@ -9,11 +9,13 @@
 
 ### 📊 GitHub Stats:
 <a href="https://github.com/JCJ02/" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 4px; width: 100%;">
-<img style="height: 144px;" src="https://github-readme-stats.vercel.app/api?username=JCJ02&theme=swift&hide_border=false&include_all_commits=true&count_private=false"/>
+  <img style="height: 144px;" src="https://github-readme-stats.vercel.app/api?username=JCJ02&theme=swift&hide_border=false&include_all_commits=true&count_private=false"/>
   <img style="height: 144px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCJ02&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </a>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JCJ02&limit=5&theme=swift&combine_all_yearly_contributions=true)
+<a href="https://github.com/JCJ02/" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 4px; width: 100%;">
+  <img style="height: 144px;" src="https://github-contributor-stats.vercel.app/api?username=JCJ02&limit=5&theme=swift&combine_all_yearly_contributions=true"/>
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
