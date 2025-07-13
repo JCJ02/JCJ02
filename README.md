@@ -1,5 +1,5 @@
-## Hey, I'm JC Jacobe 👋
-#### A Full-Stack Developer from the Philippines.
+<h1>Hey, I'm JC Jacobe 👋</h1>
+<p>A Full Stack Developer From the Philippines.</p>
 
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/akosijcjacobe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jcjacobe2/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcj02/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JCJacobe2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jacobe.johncarlo.02022003@gmail.com) 
