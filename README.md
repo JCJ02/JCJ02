@@ -3,7 +3,7 @@
 
 <h3>🌐 Socials:</h3>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/akosijcjacobe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jcjacobe2/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcj02/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JCJacobe2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jacobe.johncarlo.02022003@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcj02/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jacobe.johncarlo.02022003@gmail.com) 
 
 <h3>💻 Tech Stack:</h3>
 
@@ -26,16 +26,3 @@
 <h4>Other:</h4>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-
-### 📊 GitHub Stats:
-<a href="https://github.com/JCJ02/" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 4px; width: 100%;">
-  <img style="height: 144px;" src="https://github-readme-stats.vercel.app/api?username=JCJ02&theme=swift&hide_border=false&include_all_commits=true&count_private=false"/>
-  <img style="height: 144px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCJ02&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
-</a>
-
-### 🔝 Top Contributed Repo
-<a href="https://github.com/JCJ02/" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 4px; width: 100%;">
-  <img style="height: 200px;" src="https://github-contributor-stats.vercel.app/api?username=JCJ02&limit=5&theme=swift&combine_all_yearly_contributions=true"/>
-</a>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
